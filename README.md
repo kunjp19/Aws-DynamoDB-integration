@@ -1,4 +1,4 @@
-# Python-CodeScreen-Films-DynamoDB-Test
+# Python-DynamoDB
 The `prod.films` `DynamoDB` table stores stores data for various films.
 
 Each `Item` in the `prod.films` table contains 5 `Attributes`:
